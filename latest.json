@@ -1,0 +1,11 @@
+{
+  "version": "0.1.21",
+  "notes": "Neatify Admin 0.1.21",
+  "pub_date": "2026-08-18T17:55:05Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUkhNY1ZVZGthamJTSkFnTVBjRmtCbTlqcE9RV1BuNjQ3UlRaQjFhU2ZXOW4reitNMVZxb1hmTnI3S3B6WUFrcVloT3dRUFU3UFF2ODdIS3QvcmphQkZuOG5VOW5hNFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDc1NzA1CWZpbGU6TmVhdGlmeSBBZG1pbl8wLjEuMjFfeDY0LXNldHVwLmV4ZQpDbXI2OS9SU1pHOXdCVWhNT2J0ZlY0eFdHWEVLSlJwcHFCeFNkR21oTDI2dVhXSWJ1RnZnNlNTOVRraW5VT0NIdTJHQlMrTEc1bzI2TmNaV1RtNnJEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/arsenius28/neatify-desktop-releases/dist/Neatify-Admin-0.1.21-setup.exe"
+    }
+  }
+}
